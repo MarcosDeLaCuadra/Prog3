@@ -1,9 +1,5 @@
 <?php
 
-function pruebaEliminar($id)
-{
-
-    return $id;
-}
-
+header('Location: index.html');
+sleep(5);
 ?>

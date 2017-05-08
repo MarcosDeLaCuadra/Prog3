@@ -51,7 +51,8 @@ if(isset($_POST['filtrar']))
                                     <th>Sexo</th>
                                     <th>Sueldo</th>
                                     <th>Dni</th>
-                                    <th>Foto</th></h1>
+                                    <th>Foto</th>
+                                     <th>Eliminar</th></h1>
                                 </tr>
 
                             </thead> <tbody>';
